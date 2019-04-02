@@ -1,0 +1,19 @@
+.post-type-res_obj .tablenav .bulkactions {
+	display: none;
+}
+.post-type-res_obj .tablenav input,
+.post-type-res_obj .tablenav select {
+	line-height: 1;
+    height: 32px;
+}
+.post-type-res_obj .tablenav select {
+	float: none;
+	vertical-align: top;
+}
+.post-type-res_obj .wp-list-table {
+	margin-top: 1em;
+}
+.post-type-res_obj .wp-list-table .separate td {
+	border-top: 7px solid #eee;
+}
+
